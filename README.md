@@ -1,8 +1,5 @@
 ![Cover Photo](https://media.licdn.com/dms/image/v2/D5616AQFFlXbMLnUChQ/profile-displaybackgroundimage-shrink_350_1400/B56ZWA4d_XHoAg-/0/1741624043012?e=1756339200&v=beta&t=7seUrfLBol2QDEBatMI_HPteryFhkSA-KWzyD1hvLE0)
 
-
-# 💫 About Me
-
 👨‍💻 **MERN Stack Developer | Student at North Western University, Khulna**
 
 I'm a passionate MERN Stack Developer with 1 year of hands-on experience building full-stack web applications using **MongoDB, Express.js, React.js, and Node.js**. I balance academic learning with real-world project experience.
