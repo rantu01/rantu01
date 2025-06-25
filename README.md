@@ -57,9 +57,5 @@ I'm a passionate and dedicated MERN Stack Developer with 1 year of hands-on expe
 
 ---
 
-## 🏆 GitHub Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=rantu01&theme=radical&no-frame=false&no-bg=true&margin-w=4&title=committer,repository,years)
-
----
 
