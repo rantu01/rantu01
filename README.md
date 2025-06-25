@@ -1,24 +1,60 @@
-# 💫 About Me:
-👨‍💻 MERN Stack Developer | Student at North Western University, Khulna<br><br>I'm a passionate MERN Stack Developer with 1 year of hands-on experience in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js. As a student of North Western University in Khulna, I balance academic learning with real-world project development.<br><br>🔹 Key Skills:<br><br>Frontend: React.js, Tailwind CSS, JavaScript<br><br>Backend: Node.js, Express.js<br><br>Database: MongoDB<br><br>Tools: Git, Firebase, JWT, REST API, Vite<br><br>🔹 What I Do:<br><br>Develop responsive and user-friendly web applications<br><br>Design secure and scalable backend APIs<br><br>Integrate frontend with backend efficiently<br><br>Collaborate using Git and GitHub<br><br>I'm always open to learning, collaboration, and building impactful solutions.<br><br>
+![Cover Photo](https://media.licdn.com/dms/image/v2/D5616AQFFlXbMLnUChQ/profile-displaybackgroundimage-shrink_350_1400/B56ZWA4d_XHoAg-/0/1741624043012?e=1756339200&v=beta&t=7seUrfLBol2QDEBatMI_HPteryFhkSA-KWzyD1hvLE0)
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rantubytes) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rantumondal06@gamil.com) 
+# 💫 About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rantu01&theme=calm&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rantu01&theme=calm&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rantu01&theme=calm&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+👨‍💻 **MERN Stack Developer | Student at North Western University, Khulna**
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rantu01&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I'm a passionate MERN Stack Developer with 1 year of hands-on experience building full-stack web applications using **MongoDB, Express.js, React.js, and Node.js**. I balance academic learning with real-world project experience.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rantu01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔹 Key Skills
+- **Frontend:** React.js, Tailwind CSS, JavaScript  
+- **Backend:** Node.js, Express.js  
+- **Database:** MongoDB  
+- **Tools:** Git, Firebase, JWT, REST API, Vite
+
+### 🔹 What I Do
+- Develop responsive and user-friendly web applications  
+- Design secure and scalable backend APIs  
+- Integrate frontend with backend efficiently  
+- Collaborate using Git and GitHub  
+
+I'm always open to learning, collaboration, and building impactful solutions.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rantu01&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🌐 Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rantubytes) 
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rantumondal06@gmail.com)
+
+
+---
+
+
+### 💻 Tech Stack
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white) 
+![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rantu01&theme=calm&hide_border=true&include_all_commits=false&count_private=false" height="150" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rantu01&theme=calm&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rantu01&theme=calm&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" />
+</div>
+
+
+---
