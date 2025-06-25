@@ -7,18 +7,6 @@
 
 I'm a passionate MERN Stack Developer with 1 year of hands-on experience building full-stack web applications using **MongoDB, Express.js, React.js, and Node.js**. I balance academic learning with real-world project experience.
 
-### 🔹 Key Skills
-- **Frontend:** React.js, Tailwind CSS, JavaScript  
-- **Backend:** Node.js, Express.js  
-- **Database:** MongoDB  
-- **Tools:** Git, Firebase, JWT, REST API, Vite
-
-### 🔹 What I Do
-- Develop responsive and user-friendly web applications  
-- Design secure and scalable backend APIs  
-- Integrate frontend with backend efficiently  
-- Collaborate using Git and GitHub  
-
 I'm always open to learning, collaboration, and building impactful solutions.
 
 ---
@@ -32,7 +20,7 @@ I'm always open to learning, collaboration, and building impactful solutions.
 ---
 
 
-### 💻 Tech Stack
+### 💻 Tech 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) 
@@ -47,8 +35,6 @@ I'm always open to learning, collaboration, and building impactful solutions.
 
 
 ---
-
-## 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rantu01&theme=calm&hide_border=true&include_all_commits=false&count_private=false" height="150" />
