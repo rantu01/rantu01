@@ -1,5 +1,5 @@
 <!-- 🖼️ Banner -->
-![Cover Photo](https://media.licdn.com/dms/image/v2/D5616AQFFlXbMLnUChQ/profile-displaybackgroundimage-shrink_350_1400/B56ZWA4d_XHoAg-/0/1741624043012?e=1756339200&v=beta&t=7seUrfLBol2QDEBatMI_HPteryFhkSA-KWzyD1hvLE0)
+![Cover Photo]([https://media.licdn.com/dms/image/v2/D5616AQFFlXbMLnUChQ/profile-displaybackgroundimage-shrink_350_1400/B56ZWA4d_XHoAg-/0/1741624043012?e=1756339200&v=beta&t=7seUrfLBol2QDEBatMI_HPteryFhkSA-KWzyD1hvLE0](https://i.ibb.co.com/tTDV6VMf/cover.png))
 
 # 👋 Hi, I'm Rantu Mondal
 
