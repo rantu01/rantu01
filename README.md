@@ -1,5 +1,7 @@
 <!-- 🖼️ Banner -->
-![Cover Photo](https://i.ibb.co.com/tTDV6VMf/cover.png)
+<!-- 🖼️ Banner -->
+![Cover Photo](https://i.ibb.co/tTDV6VMf/cover.png)
+
 
 # 👋 Hi, I'm Rantu Mondal
 
