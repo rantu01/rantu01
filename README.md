@@ -5,7 +5,7 @@
 
 # 👋 Hi, I'm Rantu Mondal
 
-👨‍💻 **MERN Stack Developer**  
+👨‍💻 **Full Stack Developer**  
 🎓 **Student at North Western University, Khulna**  
 📍 Based in Khulna, Bangladesh  
 ✉️ rantumondal06@gmail.com  
