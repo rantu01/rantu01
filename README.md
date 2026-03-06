@@ -1,7 +1,9 @@
 <!-- 🖼️ Banner -->
 <!-- 🖼️ Banner -->
 ![Cover Photo](https://i.ibb.co/wh446k62/github-cover.png)
-
+<p align="center">
+  <img src="https://i.ibb.co/wh446k62/github-cover.png" alt="Cover Photo" width="100%">
+</p>
 
 # 👋 Hi, I'm Rantu Mondal
 
