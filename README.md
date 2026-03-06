@@ -1,6 +1,9 @@
 <!-- 🖼️ Banner -->
 <!-- 🖼️ Banner -->
 ![Cover Photo](https://res.cloudinary.com/dyhhdl1hy/image/upload/v1772822641/github-cover_gjgfhs.png)
+<p align="center">
+  <img src="https://res.cloudinary.com/dyhhdl1hy/image/upload/v1772822641/github-cover_gjgfhs.png" alt="Cover Photo" width="100%">
+</p>
 
 # 👋 Hi, I'm Rantu Mondal
 
