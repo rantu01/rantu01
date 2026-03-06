@@ -1,6 +1,6 @@
 <!-- 🖼️ Banner -->
 <!-- 🖼️ Banner -->
-![Cover Photo](https://i.ibb.co.com/wh446k62/github-cover.png)
+![Cover Photo](https://i.ibb.co/wh446k62/github-cover.png)
 
 
 # 👋 Hi, I'm Rantu Mondal
