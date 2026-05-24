@@ -50,9 +50,9 @@ I'm a passionate and dedicated MERN Stack Developer with 1 year of hands-on expe
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rantu01&theme=calm&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rantu01&theme=calm&hide_border=true" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rantu01&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.shion.dev/api?username=rantu01&theme=calm&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="150" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=rantu01&theme=calm&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=rantu01&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Languages" />
 </div>
 
 ---
