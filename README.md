@@ -1,5 +1,5 @@
 <!-- 🖼️ Banner -->
-![Cover Photo](https://i.ibb.co.com/wh446k62/github-cover.png)
+![Cover Photo](https://raw.githubusercontent.com/rantu01/rantu01/main/github-cover.png?v=1)
 
 # 👋 Hi, I'm Rantu Mondal
 
