@@ -1,6 +1,5 @@
 <!-- 🖼️ Banner -->
-<!-- 🖼️ Banner -->
-![Cover Photo](https://res.cloudinary.com/dyhhdl1hy/image/upload/v1772822641/github-cover_gjgfhs.png)
+![Cover Photo](https://i.ibb.co.com/wh446k62/github-cover.png)
 
 # 👋 Hi, I'm Rantu Mondal
 
@@ -51,12 +50,9 @@ I'm a passionate and dedicated MERN Stack Developer with 1 year of hands-on expe
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rantu01&theme=calm&hide_border=true&include_all_commits=false&count_private=false" height="150" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rantu01&theme=calm&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rantu01&theme=calm&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rantu01&theme=calm&hide_border=true&include_all_commits=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rantu01&theme=calm&hide_border=true" height="150" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rantu01&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="150" alt="Top Languages" />
 </div>
 
 ---
-
-
-
