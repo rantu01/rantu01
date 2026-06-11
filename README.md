@@ -1,27 +1,26 @@
 <!-- 🖼️ Banner -->
 ![Cover Photo](https://raw.githubusercontent.com/rantu01/rantu01/main/github-cover.png?v=1)
 
-# [cite_start]👋 Hi, I'm Rantu Mondal [cite: 2]
+# 👋 Hi, I'm Rantu Mondal
 
-[cite_start]👨‍💻 **Full-Stack Developer** [cite: 3]  
-[cite_start]🎓 **B.Sc. in Computer Science and Engineering at North Western University, Khulna** (2024 - 2027) [cite: 31, 32, 33]  
-[cite_start]📍 Based in Khulna, Bangladesh [cite: 4]  
-[cite_start]✉️ rantumondal06@gmail.com [cite: 4]  
+👨‍💻 **Full-Stack Developer** 🎓 **B.Sc. in Computer Science and Engineering at North Western University, Khulna** (2024 - 2027)  
+📍 Based in Khulna, Bangladesh  
+✉️ rantumondal06@gmail.com  
 🌐 **Portfolio:** [rantumondal.dev](https://www.rantumondal.dev/)
 
 ---
 
 ## 💬 About Me
 
-[cite_start]I'm a driven MERN stack developer with hands-on experience in Next.js, passionate about crafting scalable, high-performance web applications[cite: 5]. [cite_start]I love independent problem-solving—from managing frontend and backend architecture to handling VPS deployment, SEO, and website optimization[cite: 12]. [cite_start]My goal is to continuously deepen my expertise while delivering innovative, user-centric solutions[cite: 6].
+I'm a driven MERN stack developer with hands-on experience in Next.js, passionate about crafting scalable, high-performance web applications. I love independent problem-solving—from managing frontend and backend architecture to handling VPS deployment, SEO, and website optimization. My goal is to continuously deepen my expertise while delivering innovative, user-centric solutions.
 
 ---
 
 ## 🚀 Professional Experience
 
-### [cite_start]**MERN Stack Developer** – Potato Solution [cite: 11]
-* [cite_start]Independently managed full-stack web development, frontend, backend, and API integrations[cite: 12].
-* [cite_start]Handled VPS deployment, SEO optimization, and Next.js metadata configurations[cite: 12].
+### **MERN Stack Developer** – Potato Solution
+* Independently managed full-stack web development, frontend, backend, and API integrations.
+* Handled VPS deployment, SEO optimization, and Next.js metadata configurations.
 
 ---
 
@@ -49,20 +48,20 @@
 
 ## 💻 Featured Projects
 
-### [cite_start]1. **CareHive – Digital Health Ecosystem** [cite: 14, 16]
-* [cite_start]**Description:** A comprehensive healthcare platform combining tracking, consultations, and fitness[cite: 16].
-* [cite_start]**Features:** AI-powered health dashboard with a chatbot, real-time doctor-patient notifications, and an emergency SOS system[cite: 17, 18, 20].
-* [cite_start]**Tech:** Next.js, Node.js, MongoDB, Firebase, Express.js[cite: 21].
+### 1. **CareHive – Digital Health Ecosystem**
+* **Description:** A comprehensive healthcare platform combining tracking, consultations, and fitness.
+* **Features:** AI-powered health dashboard with a chatbot, real-time doctor-patient notifications, and an emergency SOS system.
+* **Tech:** Next.js, Node.js, MongoDB, Firebase, Express.js.
 
-### [cite_start]2. **BanglaCo Travel Agency Website** [cite: 22]
-* [cite_start]**Description:** A modern, responsive travel management platform built during my time at Potato Solution[cite: 22].
-* [cite_start]**Features:** Dynamic tour packages, visa assistance tools, currency conversion, and package management[cite: 23, 24].
-* [cite_start]**Tech:** Next.js, React.js, Tailwind CSS, Node.js, Express.js, MongoDB[cite: 24].
+### 2. **BanglaCo Travel Agency Website**
+* **Description:** A modern, responsive travel management platform built during my time at Potato Solution.
+* **Features:** Dynamic tour packages, visa assistance tools, currency conversion, and package management.
+* **Tech:** Next.js, React.js, Tailwind CSS, Node.js, Express.js, MongoDB.
 
-### [cite_start]3. **Soulmate – Matrimony Website** [cite: 26]
-* [cite_start]**Description:** A secure matchmaking platform where users can explore profiles and request contact details[cite: 26].
-* [cite_start]**Features:** Biodata management with admin approval, premium request system with Stripe integration, and advanced filters[cite: 27, 28, 30].
-* [cite_start]**Tech:** React.js, Node.js, Express.js, MongoDB, Firebase, JWT, Stripe[cite: 30].
+### 3. **Soulmate – Matrimony Website**
+* **Description:** A secure matchmaking platform where users can explore profiles and request contact details.
+* **Features:** Biodata management with admin approval, premium request system with Stripe integration, and advanced filters.
+* **Tech:** React.js, Node.js, Express.js, MongoDB, Firebase, JWT, Stripe.
 
 ---
 
